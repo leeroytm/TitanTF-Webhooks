@@ -2,7 +2,7 @@
 This applet uses EntryContent module!
 The applet may or may not work because of too many requests to this host.
 
-Original:
+Old School (OG):
 { "username":"New Workshop Submission", "content":"`[⚙️]` **[{{EntryTitle}}]({{EntryUrl}})** \n • Submitted on {{EntryPublish}} by {{EntryAuthor}}" }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
