@@ -1,4 +1,4 @@
-Original:
+Old School (OG):
 { "username":"Titan.TF Support Tickets", "content":"@here — New Report! \n`[📩]` **[{{EntryTitle}}](<{{EntryUrl}}>)** \n • Issued on : {{EntryPublished}}" }
 
 Rewrite 1: [Working - Compact]
