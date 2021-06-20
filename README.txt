@@ -26,14 +26,15 @@ He will now code rest of these services and some addiotionals
 Version >>
 
 First ever format and first ever bot : 
-https://discord.com/channels/225080773378703360/447266032009347072/510512712946810900
+https://discord.com/channels/225080773378703360/447266032009347072/510512712946810900 (Legacy Server)
  — 17 Nov 2018
 
 Old School (OG):
-https://discord.com/channels/225080773378703360/447266032009347072/607074335835947053
- — 03 Aug 2019 : The messagaing format has been refined and overhauled!
+The messagaing format has been refined and overhauled!
+https://discord.com/channels/225080773378703360/447266032009347072/607074335835947053 (Legacy Server)
+ — 03 Aug 2019
 
 New :
 Service bots have a new look! This is time Embed Messaging Format was implemanted. I love this and proud!
-https://discord.com/channels/774245035615977473/774246703691595826/790943279654895656
+https://discord.com/channels/774245035615977473/774246703691595826/790943279654895656 (Main Server) 
  — 12/22/2020
