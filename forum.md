@@ -1,4 +1,4 @@
-Original:
+Old School (OG):
 { "username":"New Forum Thread", "content":"`[📝]` [{{EntryTitle}}]({{EntryUrl}})" }
 
 /////////////////////////////////////////////////////////////////////////////////////
