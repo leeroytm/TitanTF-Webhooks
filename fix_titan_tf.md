@@ -3,7 +3,7 @@ This applet uses EntryContent module!
 The applet may or may not work because of too many requests to this host.
 
 
-Original:
+Old School (OG):
 { "username":"Fix Titan.TF Report", "content":"`[🛠]` **[{{EntryTitle}}]({{EntryUrl}})** \n • Issued on {{EntryPublish}}" }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
