@@ -4,12 +4,12 @@ https://leovoel.github.io/embed-visualizer/
 
 ^ ENABLE WEBHOOK MODE before writing
 ^ Copy and paste the code to visualize how the embed will look like
+To copy, I advice you to click the RAW version of the code of each service!
 
 Please use the COMPACT line of code when applying into a IFTTT applet. (aka the whole code in 1 line)
 IFTTT will show errors if this is not done even if the code is the same!
 Do note, not all of them are ready with COMPACT but all of the code are the same!
 
-To copy, I advice you to click the RAW version of the code of each service.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 Logs >>
