@@ -8,11 +8,13 @@ https://leovoel.github.io/embed-visualizer/
 - Please use the COMPACT line of code when applying into a IFTTT applet. (aka the whole code in 1 line)
 - - IFTTT will show errors if this is not done even if the code is the same!
 
+- Be aware that all of this code has the IFTTT modules!
+
 
 ---
 Logs >>
 
-11/25/2020
+25 Nov 2020
 > Most of these service needs to shutdown due to IFTTT Pro being implemented fully on November 2020.
 So theres now only 3 slots per account. So I quickly import all of the code into Github!
 > - Located: https://discord.com/channels/774245035615977473/774246703691595826/780836779196416001
