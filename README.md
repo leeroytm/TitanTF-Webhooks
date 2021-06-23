@@ -2,16 +2,16 @@
 
 https://leovoel.github.io/embed-visualizer/
 
-^ ENABLE WEBHOOK MODE before writing
-^ Copy and paste the code to visualize how the embed will look like
-To copy, I advice you to click the RAW version of the code of each service!
-
-Please use the COMPACT line of code when applying into a IFTTT applet. (aka the whole code in 1 line)
-IFTTT will show errors if this is not done even if the code is the same!
-Do note, not all of them are ready with COMPACT but all of the code are the same!
+* ^ ENABLE WEBHOOK MODE before writing
+* ^ Copy and paste the code to visualize how the embed will look like
+To copy, I advice you to click the RAW version of the code of each services!
 
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////
+- Please use the COMPACT line of code when applying into a IFTTT applet. (aka the whole code in 1 line)
+- IFTTT will show errors if this is not done even if the code is the same!
+- Do note, not all of them are ready with COMPACT but all of the code are the same!
+
+---
 Logs >>
 
 Most of these service needs to shutdown due to IFTTT Pro being implemented fully on November 2020.
@@ -20,10 +20,10 @@ https://discord.com/channels/774245035615977473/774246703691595826/7808367791964
 
 20 Jun 2021, due to the service is being so slow and delayed... myst decided to switch up a bit.
 He will now code rest of these services and some addiotionals
-@ https://github.com/TitanTF/TitanTF/issues/20
+https://github.com/TitanTF/TitanTF/issues/20
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 Version >>
 
 First ever format and first ever bot : 
