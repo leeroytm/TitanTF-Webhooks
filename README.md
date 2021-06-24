@@ -19,11 +19,13 @@ Logs >>
 So theres now only 3 slots per account. So I quickly import all of the code into Github!
 > - Located: https://discord.com/channels/774245035615977473/774246703691595826/780836779196416001
 
-20 Jun 2021
+20 June 2021
 > Due to the service is being so slow and delayed... myst decided to switch up a bit.
 He will now code rest of these services and some addiotionals.
 https://github.com/TitanTF/TitanTF/issues/20
 
+23 June
+> This respiratory is now open source!
 
 ---
 Version >>
