@@ -27,6 +27,8 @@ https://github.com/TitanTF/TitanTF/issues/20
 23 June
 > This respiratory is now open source!
 
+26 June
+> Some IFTTT's has been disabled.... 
 ---
 Version >>
 
