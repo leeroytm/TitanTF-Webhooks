@@ -29,6 +29,10 @@ https://github.com/TitanTF/TitanTF/issues/20
 
 26 June
 > Some IFTTT's has been disabled.... 
+
+Somewhere in August
+> Enable back some of the services! ^~^
+
 ---
 Version >>
 
