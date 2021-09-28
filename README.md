@@ -32,21 +32,25 @@ https://github.com/TitanTF/TitanTF/issues/20
 
 Somewhere in August
 > Enable back some of the services! ^~^
+But there is nothing I can about the delay. Is a hit or miss.
 
 ---
-Version >>
+Format Version >>
 
-17 Nov 2018
+Version 1 - 17 Nov 2018
 > First ever format and first ever bot.
+
 > - Located: https://discord.com/channels/225080773378703360/447266032009347072/510512712946810900 (Legacy Server)
 
-03 Aug 2019
+Version 2 - 03 Aug 2019
 > Old School (OG):
-The messagaing format has been refined and overhauled!
+The messagaing formating has been refined and overhauled by using icons!
+The messaging format has been changed a couple of times along the way.
 > - Located: https://discord.com/channels/225080773378703360/447266032009347072/607074335835947053 (Legacy Server)
 
-12/22/2020
+Version 3 - 22 Dec 2020
 > New :
-Service bots have a new look! This is time Embed Messaging Format was implemanted. I love this and proud!
+Service bots have a new refine look! This is the time Embed Messaging Formating was implemanted. I love this and proud!
+It gives a refreshing look for a new server.
 > - Located: https://discord.com/channels/774245035615977473/774246703691595826/790943279654895656 (Main Server) 
 
