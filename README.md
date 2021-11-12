@@ -36,7 +36,7 @@ Somewhere in August
 > But there is nothing I can about the delay. Is a hit or miss.
 
 28 Oct 2021
-> You need to put in the Body from now on instead of Additional Headers. 
+> **You need to put in the Body from now on instead of Additional Headers**. 
 > 
 > So far, I only done this on the latest SteamStatus Twitter Webhook.
 > 
