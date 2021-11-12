@@ -30,3 +30,5 @@ Old School (OG):
 ```
 { "username":"Titan.TF Patch Notes", "content":"<@&776362265200033804> — New Patch! \n`🔴Live` **[{{EntryTitle}}]({{EntryUrl}})**" }
 ```
+---
+RSS : https://titan.tf/rss_patches.php
