@@ -58,9 +58,7 @@ Version 1 - 17 Nov 2018
 > - Titan.TF Twitter was created: https://discord.com/channels/225080773378703360/447266032009347072/510512712946810900 (Legacy Server)
 
 Version 1.1 - 19 Dec 2018
-> Testing out how to customize the IFTTT message format.
-> 
-> Also testing out if I can put Icons.
+> Testing out how to customize the IFTTT message format. Also testing out if I can put Icons.
 >
 > Continue testing various different format and icons for the different bots.
 > - Located: https://discord.com/channels/225080773378703360/447266032009347072/524443972232282114 (Legacy Server)
