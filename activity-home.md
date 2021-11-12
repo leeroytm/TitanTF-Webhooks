@@ -6,3 +6,6 @@ Maybe the original:
 ```
 { "username":"Floor Gang", "content":"`[💬]` {{EntryTitle}} // {{EntryAuthor}} says {{EntryUrl}}" }
 ```
+
+---
+RSS : https://titan.tf/rss_activity.php
