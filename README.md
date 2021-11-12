@@ -70,7 +70,9 @@ Version 2 (Old School (OG)) - 03 Aug 2019
 > - Located: https://discord.com/channels/225080773378703360/447266032009347072/607074335835947053 (Legacy Server)
 
 Version 3 (New) - 22 Dec 2020
-> Service bots have a new refine look! This is the time Embed Messaging Formating was implemanted. I love this and proud!
+> Service bots have a new refine look! This is the time Embed Messaging Formating was implemanted.
+> 
+> I love this and proud!
 > 
 > It gives a refreshing look for a new server and no more long links!
 > - Located: https://discord.com/channels/774245035615977473/774246703691595826/790943279654895656 (Main Server) 
