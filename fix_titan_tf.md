@@ -37,3 +37,6 @@ Old School (OG):
 ```
 { "username":"Fix Titan.TF Report", "content":"`[🛠]` **[{{EntryTitle}}]({{EntryUrl}})** \n • Issued on {{EntryPublish}}" }
 ```
+
+---
+RSS: https://fix.titan.tf/atom
