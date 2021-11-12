@@ -30,3 +30,5 @@ Old School (OG):
 ```
 { "username":"New Forum Thread", "content":"`[📝]` [{{EntryTitle}}]({{EntryUrl}})" }
 ```
+---
+RSS : https://titan.tf/rss_forum.php
