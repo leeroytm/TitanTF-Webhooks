@@ -57,4 +57,5 @@ Old School (OG):
 ```
 { "username":"Titan.TF Support Tickets", "content":"@here — New Report! \n`[📩]` **[{{EntryTitle}}](<{{EntryUrl}}>)** \n • Issued on : {{EntryPublished}}" }
 ```
-
+---
+RSS : https://titan.tf/rss_tickets.php?key=Am9aKb3mUN99 
