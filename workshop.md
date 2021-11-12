@@ -35,4 +35,7 @@ Old School (OG):
 { "username":"New Workshop Submission", "content":"`[⚙️]` **[{{EntryTitle}}]({{EntryUrl}})** \n • Submitted on {{EntryPublish}} by {{EntryAuthor}}" }
 ```
 
+---
+RSS: https://workshop.titan.tf/atom
+
 
