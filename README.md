@@ -34,6 +34,11 @@ Somewhere in August
 > Enable back some of the services! ^~^
 But there is nothing I can about the delay. Is a hit or miss.
 
+28 Oct 2021
+> You need to put in the Body from now on instead of Additional Headers. 
+> So far, I only done this on the latest SteamStatus Twitter Webhook.
+> I haven't change this for the other webhooks. Will keep on the look out
+
 ---
 Format Version >>
 
