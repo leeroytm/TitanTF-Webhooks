@@ -1,4 +1,4 @@
-## TitanTF-Service-bots
+## TitanTF-Webhooks (for Discord)
 
 https://leovoel.github.io/embed-visualizer/
 
@@ -12,11 +12,11 @@ https://leovoel.github.io/embed-visualizer/
 
 
 ---
-Logs >>
+### Logs >>
 
 25 Nov 2020
 > Most of these service needs to shutdown due to IFTTT Pro being implemented fully on November 2020.
-So theres now only 3 slots per account. So I quickly import all of the code into Github!
+> So theres now only 3 slots per account. So I quickly import all of the code into Github! Some were lost.
 > - Announcement Located: https://discord.com/channels/774245035615977473/774246703691595826/780836779196416001
 
 20 June 2021
@@ -39,8 +39,12 @@ But there is nothing I can about the delay. Is a hit or miss.
 > So far, I only done this on the latest SteamStatus Twitter Webhook.
 > I haven't change this for the other webhooks. Will keep on the look out
 
+12 Nov 2021
+> This respo has been renamed!
+> From `TitanTF-Service-bots` to `TitanTF-Webhooks`
+
 ---
-Format Version >>
+### Format Versions >>
 
 Version 1 - 17 Nov 2018
 > First ever format and first ever bot.
