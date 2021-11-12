@@ -3,6 +3,14 @@ Created: 27 Oct 2021
 ---
 
 v1.1 (28 Oct 2021)
+> Currently Testing
+> ```
+> { "username":"Steam Status", "content":"Heads up, gamers. ```{{Text}}```" }
+> ```
+
+
+v1.1 (28 Oct 2021)
+> **Success!** - You need to put in the Body from now on instead of Additional Headers
 > ```
 > { "username":"Steam Status", "content":"Heads up, gamers. \n{{LinkToTweet}}" }
 > ```
