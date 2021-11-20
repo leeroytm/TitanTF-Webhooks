@@ -2,8 +2,14 @@ Created: 27 Oct 2021
 
 ---
 
+v1.2 (20 Nov 2021)
+> Currently Testing...
+> ```
+> { "username":"Steam Status", "content":" ```{{Text}}```" }
+> ```
+
 v1.1 (28 Oct 2021)
-> Currently Testing
+> **Success!** at 20 Nov 2021
 > ```
 > { "username":"Steam Status", "content":"Heads up, gamers. ```{{Text}}```" }
 > ```
