@@ -51,7 +51,7 @@ Somewhere in August
 
 31 March 2022
 > - I just noticed that IFTTT's free account lets you do 5 applets instead of 3!
-> - All the name files has status of ✔ and ❌ indicate it's activation.
+> - All the name files have status of ✔ and ❌ indicate it's activation.
 
 ---
 ## Format Versions >>
