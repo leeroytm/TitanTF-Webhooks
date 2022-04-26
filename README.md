@@ -1,5 +1,5 @@
 ## TitanTF-Webhooks (for Discord)
-basically where leeroy uses all his freetime
+basically where leeroy uses all his freetime. lol
 
 ---
 https://leovoel.github.io/embed-visualizer/
