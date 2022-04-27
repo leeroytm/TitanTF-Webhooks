@@ -35,6 +35,7 @@
 > Last Seen: https://discord.com/channels/225080773378703360/546210528872235009/583996415357878275
 
 ### 7. 🌐 Attack of Teufort Steam Announcement RSS
-> Steam Group cannot be found! || AoT has been merge into MvM servers
+> Steam Group:https://steamcommunity.com/groups/attackonteufort 
+> - AoT has been merge into MvM servers
 >
 > Last Seen: https://discord.com/channels/225080773378703360/447266032009347072/723538188706119761
