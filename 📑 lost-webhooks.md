@@ -6,26 +6,27 @@
 ### 2. 🔇 Communication Block of the Day
 > https://bans.titan.tf/
 > 
-> RSS: from a free website, but no longer exist
+> RSS: from a free website, no longer exist.
 >
 > Example: https://discord.com/channels/225080773378703360/546260747634737162/727838721898053695
 
 ### 3. 🔨 Bans of the Day
 > https://bans.titan.tf/
 > 
-> RSS: ban are rare, the free RSS expires. The website longer exist.
+> RSS: ban are rare, therefore free RSS expires. The website longer exist.
 > 
 > Example: https://discord.com/channels/225080773378703360/546260747634737162/727838721898053695
 
 ### 4. 🏃‍♂️ Heavy Out Yet twitter
 > https://twitter.com/HeavyUpdateOut
 >
-> Added on 16 Sept 19 || Removed at 21 Sept 19 || Reasons: Annoying.
+> - Added on 16 Sept 19 
+> - Removed at 21 Sept 19 (Reasons: Annoying)
 
 ### 5. 💍 Something Special for Someone Special twitter
 > https://twitter.com/TFSome1Special
 >
-> Closed || Reason: Can't get it to work for some reason. Attempts of fixes has been made.
+> Closed (Reason: Can't get it to work for some reason. Attempts of fixes has been made)
 
 ### 6. 📻 Trello - Titan.TF Radar
 > Board is gone
