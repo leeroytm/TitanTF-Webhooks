@@ -45,7 +45,7 @@ Somewhere in August
 > I haven't change this for the other webhooks. Will keep on the look out
 
 12 Nov 2021
-> - This repository has been renamed! || From `TitanTF-Service-bots` to `TitanTF-Webhooks`
+> - This repository has been renamed! (from `TitanTF-Service-bots` to `TitanTF-Webhooks`)
 >
 > - Added originated RSS to each Webhook
 > 
