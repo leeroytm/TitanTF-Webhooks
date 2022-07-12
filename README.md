@@ -56,6 +56,11 @@ Somewhere in August
 > - All the name files have status of ✔ and ❌ indicate it's activation.
 > - Enable back `Blog` webhook.
 
+12 July 20
+> - `Support Ticket` in `IFTTT` is now deactivated. (Due to time interval being too long (up to 1h))
+> - Now using `MonitoRSS` discord bot to fetch tickets to #reports (with <10 minutes time interval)
+> - It has an in-build embed but you can only have 5 RSS per server (free version)"
+> - With this version, the embed has been changed with {description} of the ticket being added!
 ---
 ## Format Versions >>
 
