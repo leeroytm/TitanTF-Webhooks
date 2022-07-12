@@ -1,3 +1,21 @@
+Newer using MonitoRSS bot (12 July 2022)
+```
+Ttile:
+> {title}
+> {link}
+
+Description:
+> {description}
+
+Footer:
+> Ticket issued at {date}
+> https://media.discordapp.net/attachments/776599695786508328/790736454594461726/aot.png?width=475&height=475
+
+Color:
+> 16759808
+```
+
+
 New: (Working - Finalized)
 ```
 {
