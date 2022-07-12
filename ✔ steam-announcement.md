@@ -60,3 +60,7 @@ Old School (OG):
   ]
 }
 ```
+```
+RSS: https://steamcommunity.com/groups/titantf/rss/
+```
+
