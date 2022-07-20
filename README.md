@@ -26,10 +26,10 @@ https://leovoel.github.io/embed-visualizer/
 He will now code rest of these services and some addiotionals.
 https://github.com/TitanTF/TitanTF/issues/20
 
-23 June
+23 June 2021
 > This respiratory is now open source!
 
-26 June
+26 June 2021
 > Some IFTTT's has been disabled.... 
 
 Somewhere in August
@@ -56,7 +56,7 @@ Somewhere in August
 > - All the name files have status of ✔ and ❌ indicate it's activation.
 > - Enable back `Blog` webhook.
 
-12 July 20
+12 July 2022
 > - `Support Ticket` in `IFTTT` is now deactivated. (Due to time interval being too long (up to 1h))
 > - Now using `MonitoRSS` discord bot to fetch tickets to #reports (with <10 minutes time interval)
 > - It has an in-build embed but you can only have 5 RSS per server (free version)"
