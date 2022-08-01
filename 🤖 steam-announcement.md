@@ -1,3 +1,28 @@
+Newer using MonitoRSS bot (1 Aug 2022)
+```
+TEXT: <@&776362265200033804> — A wild steam announcement has appeared!
+
+EMBED:
+Author:
+> Text: Titan.TF Steam Alert!
+> Icon: https://cdn.discordapp.com/emojis/775347648583696434.png?v=1
+> URL: https://steamcommunity.com/groups/titantf
+
+Title:
+> Text: {title}
+> URL: {link}
+
+Description:
+> {description}
+
+Footer:
+> Text: 🕒 Announced on {date} from {author} (Team Titan)
+
+Color:
+> 6750156
+```
+
+
 New:
 ```
 {
